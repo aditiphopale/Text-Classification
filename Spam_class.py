@@ -1,4 +1,4 @@
-# Spam Classification by Aditi Pophale and Sejal wadekar
+# Spam Classification by Aditi Phopale and Sejal wadekar
 
 # # Importing the data
 import pandas as pd
